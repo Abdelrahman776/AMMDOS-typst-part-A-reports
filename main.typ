@@ -21,9 +21,9 @@
       legajo: "S4712172",
     ),
     (
-      nombre: "M.Mohi, Uddin",
-      email: "s9287136@studenti.unige.it",
-      legajo: "S9287136",
+      nombre: "Eman , Sadig",
+      email: "s6864398@studenti.unige.it",
+      legajo: "S6864398",
     ),
   ),
 
